@@ -1,0 +1,7 @@
+/home/miztli/Documents/Baeldung-spring-course/template-spring-rest-webapp/template-webapp/src/main/java/com/template/webapp/service/IUserService.java
+/home/miztli/Documents/Baeldung-spring-course/template-spring-rest-webapp/template-webapp/src/main/java/com/template/webapp/util/WebMappings.java
+/home/miztli/Documents/Baeldung-spring-course/template-spring-rest-webapp/template-webapp/src/main/java/com/template/webapp/util/Privileges.java
+/home/miztli/Documents/Baeldung-spring-course/template-spring-rest-webapp/template-webapp/src/main/java/com/template/webapp/service/impl/UserServiceImpl.java
+/home/miztli/Documents/Baeldung-spring-course/template-spring-rest-webapp/template-webapp/src/main/java/com/template/webapp/persistence/dao/IUserJpaDAO.java
+/home/miztli/Documents/Baeldung-spring-course/template-spring-rest-webapp/template-webapp/src/main/java/com/template/webapp/persistence/model/User.java
+/home/miztli/Documents/Baeldung-spring-course/template-spring-rest-webapp/template-webapp/src/main/java/com/template/webapp/web/controller/UserController.java

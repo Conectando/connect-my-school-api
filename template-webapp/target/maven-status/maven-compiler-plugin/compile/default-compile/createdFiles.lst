@@ -1,0 +1,7 @@
+com/template/webapp/persistence/model/User.class
+com/template/webapp/service/IUserService.class
+com/template/webapp/web/controller/UserController.class
+com/template/webapp/util/Privileges.class
+com/template/webapp/service/impl/UserServiceImpl.class
+com/template/webapp/util/WebMappings.class
+com/template/webapp/persistence/dao/IUserJpaDAO.class
